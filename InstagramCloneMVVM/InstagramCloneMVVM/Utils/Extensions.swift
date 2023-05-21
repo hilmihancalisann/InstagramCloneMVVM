@@ -8,6 +8,10 @@
 import UIKit
 import JGProgressHUD
 
+
+
+
+
 extension UIViewController {
     static let hud = JGProgressHUD(style: .dark)
     
